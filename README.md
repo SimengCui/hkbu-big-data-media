@@ -5,6 +5,6 @@
 ## Data field
     'Brand': String, eg 'Kiehl's'
     'Product': String, eg 'Ultra Light Daily UV Defense SPF50 PA+++ (60ml)'
-    'Price': Strubf, eg 'HK359'
+    'Price': String, eg 'HK359'
 ## Data value
     58 products
